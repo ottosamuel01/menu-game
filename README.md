@@ -3,4 +3,5 @@
 - feito em: <br><img width= '50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br><br><strong>- equipe: </strong><br>
 - <i>Otto samuel</i><br>
+-<i>Julio mateus</i><br>
 
